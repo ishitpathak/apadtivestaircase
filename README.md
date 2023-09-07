@@ -1,1 +1,1 @@
-# apadtivestaircase
+# adaptivestaircase
